@@ -24,22 +24,6 @@ This program was created as part of the HyperionDev course, and thus its purpose
 ## Who will benefit?
 Anybody that is fairly new to Java and interested in the basics of the MVC design pattern.
 
-# Installation
-Feel free to contact me via email to setup a call so that I can do a screen-share of the program.
-
-If however, you prefer to do the setup on your own, below are the necessary steps.
-
-There are quite a few steps that you will need to do on your end in order to run this program:
-1. Java: Head over to Oracle's website in order to download the software (https://www.oracle.com/za/java/technologies/javase-downloads.html)
-2. Java Development Kit:(https://www.oracle.com/za/java/technologies/javase/javase-jdk8-downloads.html).
-3. An IDE (such as eclipse): https://www.eclipse.org/downloads/
-4. MySQL: https://dev.mysql.com/downloads/mysql/
-5. Create a database called "poisepms". Create a user called otheruser, with a password of java_proj.
-6. Run the create_tables.txt file (creates a list of tables used in the program).
-7. Link the JDBC connector JAR file within Eclipse.
-
-You should now be able to run the "GUIProgram.java" file, as it contains the java main method.
-
 # Improvements
 Aspects of the program that can be improved upon:
 1. While this program adds a GUI, making it much more user-friendly, it can still be improved upon, such as in terms of its colors and fonts.
