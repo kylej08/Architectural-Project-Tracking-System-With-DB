@@ -3,7 +3,6 @@
 
 ## Note
 Due to this project being part of the HyperionDev bootcamp, the source code is available in a private repository.
-Please contact me if you would like an invitation to the private repository.
 
 # An overview
 
@@ -30,13 +29,7 @@ Aspects of the program that can be improved upon:
 2. A loyal customer base can be implemented, where customers get discounts for future projects.
 3. The Swing library can be changed to use the newer JavaFX library for its GUI components.
 
-# Licensing
-There is no formal licensing for this program, however any distribution, modification and it being packaged to be sold is NOT permissible. Permission will be given by myself for you to download and use the program on your computer, however please remove it once you are done with it.
-
 # Contact information
 If you have any further questions, feel free to reach out to me at:
 - Email: kylejulies8@gmail.com
-
-# References for the program
-There are many references used for this program. See the references.txt file.
 
